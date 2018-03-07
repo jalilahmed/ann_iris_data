@@ -61,8 +61,7 @@ ANN_TF the result is not so good. ANN gives accuracy ~= 0.9 and ANN_TF ~= 0.8. T
 input to model to check its response.
 
 ## Credits
-I would like to give credit to lazyProgrammer for developing a very comprehensive and understandable course
-for deep learning. Also UCI for making the Iris Data Set available. Also [Azeem Bootwala](https://github.com/azeembootwala) for introduction to this data set
+I would like to give credit to [lazyProgrammer](https://lazyprogrammer.me) for developing a very comprehensive and understandable course for deep learning. Also UCI for making the Iris Data Set available. Also [Azeem Bootwala](https://github.com/azeembootwala) for introduction to this data set
 and encouragement.
 
 ## License
