@@ -9,8 +9,7 @@ normalization and one-hot encoding was used. It also was aimed for improving my 
 of forward run of Neural Network, Back-propagation, Activation Functions and Hyper-parameters.
 
 ## Data
-Data is from Open source "Iris Data Set" from UCI, Machine Learning Repository. But I used the version available on [Kaggle Link]
-(https://www.kaggle.com/willvegapunk/iris-data-set/data). I used this version as data was in *.csv format rather then
+Data is from Open source "Iris Data Set" from UCI, Machine Learning Repository. But I used the version available on [Kaggle Link](https://www.kaggle.com/willvegapunk/iris-data-set/data). I used this version as data was in *.csv format rather then
 *.data format on UCI repository. I found it easy for *.csv to use.
 
 ### Important Information
