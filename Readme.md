@@ -19,7 +19,7 @@ Please keep downloaded data in the same folder as python files.
 As this project was for learning purpose, I have written code in both in simple Numpy, and Tensorflow framework.
 Tensorflow code was very low level, with just simple implementation of ANN.
 
-##Folder Structure
+## Folder Structure
 The repository contains,
 
 1. Iris.csv
