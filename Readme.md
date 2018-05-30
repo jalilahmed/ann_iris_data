@@ -46,13 +46,13 @@ The repository contains,
 
 ## Usage
 To run the simple numpy file
-'''
+```
 python main.py
-'''
+```
 To run the Tensorflow based file
-'''
+```
 python main_tf.py
-'''
+```
 
 ## Results
 Results from model ANN are better as we can use regularization techniques for this model. but for model
